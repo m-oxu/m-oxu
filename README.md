@@ -1,30 +1,32 @@
-### Olá, seja bem vindo! 👋 Welcome to my Github profile page! ![](https://komarev.com/ghpvc/?username=m-oxu&color=blue&style=flat)
+<h1 align="center">Hi 👋, I'm Dairenkon Majime</h1>
+<h3 align="center">A data scientist, content writer, learning facilitator and project mentor from Brazil. I work for companies in real state, education and freelancing writing.</h3>
 
-<center>
-<center>
-<center>
-<table>
-    <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-oxu&hide=html&layout=compact&theme=vue" />  
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=m-oxu&theme=vue"/>  
-         </tr>   
-</table>
-</center> 
-  
-Sou estudante no Bacharelado de Ciência de Dados na PUC Minas. Trabalho como Cientista de Dados Estagiário na Loft, como Facilitador de Aprendizagem em Dados do curso de Data Science e Machine Learning, e Mentor de Projetos na Tera. Sou apaixonado em resolver problemas, enfrentar novos desafios e sair da minha zona de conforto em relação aos meus conhecimentos.  
-  
-Meu maior objetivo é espalhar implmentar uma educação aberta, gratuita e pública para todas as pessoas. A área de tecnologia tem as condições perfeitas de ser pioneira nesse movimento!
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-oxu&label=Profile%20views&color=0e75b6&style=flat" alt="m-oxu" /> </p>
 
-![Separador texto](https://user-images.githubusercontent.com/72058182/107102154-54f7ac00-67f8-11eb-95c1-870789e241c8.gif)
-  
-  
-I am a student in the Bachelor of Data Science at PUC Minas. I work as an Intern Data Scientist at Loft, as a Data Learning Facilitator for the Data Science and Machine Learning course, and a Project Mentor at Tera. I am passionate about solving problems, facing new challenges and stepping out of my comfort zone regarding my knowledge. 15 16 My biggest goal is to spread and implement an open, free and public education for all people. The technology area has the perfect conditions to be a pioneer in this movement!
-    
-I am a data enthusiast with experience in Python programming, machine learning and statistics methods applied to Natural Language Processing.
-  
-<p align="center">
-<img src="https://media.baamboozle.com/uploads/images/105260/1620796254_227962_gif-url.gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-oxu" alt="m-oxu" /></a> </p>
+
+- 🌱 I’m currently learning **machine Learning, algorithm finance and social media analysis.**
+
+- 👨‍💻 All of my projects are available at [https://dairenkonmajime.journoportfolio.com](https://dairenkonmajime.journoportfolio.com)
+
+- 💬 Ask me about **career change, classical machine learning and how to improve your LinkedIn.**
+
+- 📫 How to reach me **dairenkonmajime@gmail.com**
+
+- 📄 Know about my experiences [https://linkedin.com/in/dairenkonmajime](https://linkedin.com/in/dairenkonmajime)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dairenkonmajime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dairenkonmajime" height="30" width="40" /></a>
+<a href="https://medium.com/@m-oxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m-oxu" height="30" width="40" /></a>
 </p>
-  
-Se você quiser me encontrar, pode me chamar no [LinkedIn](https://www.linkedin.com/in/dairenkonmajime/) ou no meu [email](mailto:dairenkonmajime@gmail.com)!
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-oxu&show_icons=true&locale=en&layout=compact" alt="m-oxu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oxu&show_icons=true&locale=en" alt="m-oxu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oxu&" alt="m-oxu" /></p>
