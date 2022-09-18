@@ -30,3 +30,8 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oxu&show_icons=true&locale=en" alt="m-oxu" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oxu&" alt="m-oxu" /></p>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
