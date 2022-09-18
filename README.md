@@ -1,6 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-oxu&label=Profile%20views&color=0e75b6&style=flat" alt="m-oxu" /> </p>
 <h1 align="center">Hi 👋, I'm Dairenkon Majime</h1>
 <h3 align="center">A data scientist, content writer, learning facilitator and project mentor from Brazil. I work for companies in real state, education and freelancing writing.</h3>
+<!--START_SECTION:waka-->
+
+```text
+C        7 hrs 24 mins   ████████████████████████▒   97.43 %
+JSON     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Python   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
+<!--END_SECTION:waka-->
 
 - 🌱 I’m currently learning **machine Learning, algorithm finance and social media analysis.**
 
@@ -30,15 +40,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oxu&show_icons=true&locale=en" alt="m-oxu" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oxu&" alt="m-oxu" /></p>
-
-<!--START_SECTION:waka-->
-
-```text
-C        7 hrs 24 mins   ████████████████████████▒   97.43 %
-JSON     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Python   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-```
-
-<!--END_SECTION:waka-->
 
