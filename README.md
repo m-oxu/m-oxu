@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-oxu&label=Profile%20views&color=0e75b6&style=flat" alt="m-oxu" /> </p>
 <h1 align="center">Hi 👋, I'm Dairenkon Majime</h1>
 <h3 align="center">A data scientist, content writer, learning facilitator and project mentor from Brazil. I work for companies in real state, education and freelancing writing.</h3>
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 - 🌱 I’m currently learning **machine Learning, algorithm finance and social media analysis.**
