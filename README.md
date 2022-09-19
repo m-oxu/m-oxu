@@ -3,6 +3,14 @@
 <h3 align="center">A data scientist, content writer, learning facilitator and project mentor from Brazil. I work for companies in real state, education and freelancing writing.</h3>
 
 <!--START_SECTION:waka-->
+
+```text
+C        10 hrs 29 mins  ████████████████████████▓   98.15 %
+JSON     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Python   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
 <!--END_SECTION:waka-->
 
 - 🌱 I’m currently learning **machine Learning, algorithm finance and social media analysis.**
