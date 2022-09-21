@@ -17,13 +17,9 @@ Bash       0 secs          ░░░░░░░░░░░░░░░░░�
 
 - 🌱 I’m currently learning **machine Learning, algorithm finance and social media analysis.**
 
-- 👨‍💻 All of my projects are available at [https://dairenkonmajime.journoportfolio.com](https://dairenkonmajime.journoportfolio.com)
+- 👨‍💻 All of my projects are available [here](https://dairenkonmajime.journoportfolio.com)
 
 - 💬 Ask me about **career change, classical machine learning and how to improve your LinkedIn.**
-
-- 📫 How to reach me **dairenkonmajime@gmail.com**
-
-- 📄 Know about my experiences [https://linkedin.com/in/dairenkonmajime](https://linkedin.com/in/dairenkonmajime)
 
 
 <h3 align="left">Connect with me:</h3>
