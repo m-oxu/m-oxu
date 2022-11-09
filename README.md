@@ -5,9 +5,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python     3 hrs 28 mins   ███████████████████████░░   92.57 %
-Makefile   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Other      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Python   4 hrs 39 mins   ████████████████████████▓   98.72 %
+Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
